@@ -1,0 +1,7 @@
+C:\Users\kevin\Documents\Visual Studio 2017\Projects\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe.config
+C:\Users\kevin\Documents\Visual Studio 2017\Projects\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe
+C:\Users\kevin\Documents\Visual Studio 2017\Projects\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.pdb
+C:\Users\kevin\Documents\Visual Studio 2017\Projects\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2017\Projects\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Visual Studio 2017\Projects\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.exe
+C:\Users\kevin\Documents\Visual Studio 2017\Projects\GeneticAlgo\GeneticAlgo\obj\Debug\GeneticAlgo.pdb
